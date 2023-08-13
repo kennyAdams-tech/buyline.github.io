@@ -1,0 +1,59 @@
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+.carousel-item img{
+    height: 600px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.star-rating{
+    width: 80px;
+}
+
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css');
+.bg-dark {
+    background-color: #343a40!important;
+}
+
+.image img{
+          width: 40px;
+}
+
+/* .kenny {
+
+    width: 78px;
+} */
+
+
+
+
+
+
+
+@media (min-width:320px) and (max-width:570px){
+    .navbar-nav a{
+        font-size: 20px;
+        text-align: center;
+        
+    }
+    .carousel-item img{
+        height: 350px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
